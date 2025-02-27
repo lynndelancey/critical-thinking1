@@ -1,5 +1,4 @@
-# critical-thinking1
-restaurant info
+# restaurant info
 Start
 
 Declare variables for restaurant name, business address, city, state, and zip code
